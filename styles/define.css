@@ -1,5 +1,15 @@
-.input{
-    color:#321329;
+.input {
+    width: 27vw;
+    height: 3.5vh;
+    background: darkcyan;
+    border: #f12a3f 4px solid;
+    border-radius: 10px;
+    color: #ffee58;
+    padding-left: 3px;
+    size: auto;
+    text-align: center;
+    font-weight: bolder;
+    margin: 13px;
 }
 .center{
     text-align: center;
